@@ -13,7 +13,7 @@ print(usdBalance, 'usd')
 print(ethConvert, 'bnb')
 print(balance)
 
-private_key = '2f1897d62c67a6648be7ae1ec81f72d5fae63dd3c8d57ca6e6420a8adb0c4cf9'
+private_key = 'input your private key'
 
 nonce = web3.eth.get_transaction_count(MyAddress)
 tx = {
